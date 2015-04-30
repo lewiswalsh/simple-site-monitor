@@ -1,6 +1,9 @@
 # Simple Site Monitor Tool
 Program to check if a series sites are up and displaying properly plus a small server to serve an RSS feed of any issues found. Feed can be subscribed to using any RSS reader or with something like [Boxcar](https://boxcar.io/) for push notification.
 
+## Node
+Ensure you run `npm install` before trying to run this program.
+
 ## sites.json
 This is where you define the site title, site URL and some text to check if the site is displaying properly. It's an array of objects.
 ```

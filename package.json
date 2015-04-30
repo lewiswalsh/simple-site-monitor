@@ -4,8 +4,8 @@
 	"description"     : "Simple tool to check if some sites are up",
 	"keywords"        : ["monitor"],
 	"bugs"            : {
-		"url"   : "http://github.com/owner/project/issues",
-		"email" : "project@hostname.com"
+		"url"   : "https://github.com/lewiswalsh/simple-site-monitor/issues",
+		"email" : "lewis@lewiswalsh.com"
 	},
 	"author"          : "Lewis Walsh <lewis@lewiswalsh.com> (http://lewiswalsh.com/)",
 	"license"         : "ISC",
@@ -14,7 +14,7 @@
 	},
 	"repository"      : {
 		"type" : "git",
-		"url"  : ""
+		"url"  : "https://github.com/lewiswalsh/simple-site-monitor"
 	},
 	"dependencies"    : {
 		"request"        : "^2.55.0",
