@@ -1,7 +1,7 @@
 {
    "apps" : [
       {
-         "name"         : "mrit sitemon rss feed",
+         "name"         : "sitemon rss feed",
          "script"       : "rss.js",
          "ignore_watch" : ["node_modules", "rss.xml", "sites.json"],
          "watch"        : true,
