@@ -10,7 +10,7 @@
   var feed = new RSS({
     title       : 'Simple Site Monitor',
     description : 'Website availability test tool results',
-    feed_url    : 'http://<my_domain_or_ip>:1337/monitor',
+    feed_url    : 'http://<my_domain_or_ip>:<my_port>/monitor',
     site_url    : 'http://<my_site>/'
   });
 
