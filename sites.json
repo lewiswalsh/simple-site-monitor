@@ -1,0 +1,12 @@
+[
+  {
+    "title"  : "My Website",
+    "url"    : "http://<site_domain_or_ip>/",
+    "phrase" : "text to look for"
+  },
+  {
+    "title"  : "Another Website",
+    "url"    : "http://<site_domain_or_ip>/",
+    "phrase" : "text to look for"
+  }
+]

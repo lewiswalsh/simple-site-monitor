@@ -1,0 +1,27 @@
+{
+	"name"            : "website-monitor",
+	"version"         : "0.1.0",
+	"description"     : "Simple tool to check if some sites are up",
+	"keywords"        : ["monitor"],
+	"bugs"            : {
+		"url"   : "http://github.com/owner/project/issues",
+		"email" : "project@hostname.com"
+	},
+	"author"          : "Lewis Walsh <lewis@lewiswalsh.com> (http://lewiswalsh.com/)",
+	"license"         : "ISC",
+	"main"            : "app.js",
+	"scripts"         : {
+	},
+	"repository"      : {
+		"type" : "git",
+		"url"  : ""
+	},
+	"dependencies"    : {
+		"request"        : "^2.55.0",
+		"rss"            : "^1.1.1",
+		"cuid"           : "^1.2.4",
+		"httpdispatcher" : "^0.4.0"
+	},
+	"devDependencies" : {
+	}
+}
